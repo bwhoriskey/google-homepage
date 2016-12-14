@@ -1,0 +1,19 @@
+#logo {
+	padding-left: 5px;
+	padding-top: 16px;
+	display:inline-block;
+}
+
+#sbar {
+	height: 44px;
+	width: 632px;
+	float: right;
+	border-bottom-left-radius: 2px
+	border-bottom-
+	box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+}
+
+#navbox {
+	display: inline-block;
+	width: 100%;
+}
